@@ -4,7 +4,6 @@
 
 package com.mycompany.pooerp18;
 import java.util.Scanner;
-
 public class POOERP18 {
 
    public static void main(String[] args) {       
